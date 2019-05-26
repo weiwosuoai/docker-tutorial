@@ -10,6 +10,8 @@
 
 ---
 
+// 内容持续更新中哟，第一时间发布在个人网站上，请保持关注哟 ......
+
 ## 一、常用开发环境安装篇
 
 - [Docker 快速安装&搭建 Mysql 环境](https://www.exception.site/docker/docker-install-mysql)
