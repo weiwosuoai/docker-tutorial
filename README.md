@@ -32,7 +32,7 @@
 
 ## 小哈的微信公众号，欢迎关注
 
-关注即可免费无套路领取小哈整理的各种 Java 学习资料哟，祝您学习愉快！
+关注即可免费无套路领取 100G 小哈整理的各种 Java 学习资料哟，祝您学习愉快！
 
 ![](https://exception-image-bucket.oss-cn-hangzhou.aliyuncs.com/155634562788477)
 
