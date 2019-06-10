@@ -18,6 +18,7 @@
 - [Docker 快速安装&搭建 Redis 环境](https://www.exception.site/docker/docker-install-redis)
 - [Docker 快速安装&搭建 MongDB 环境](https://www.exception.site/docker/docker-install-mongdb)
 - [Docker 快速安装&搭建 Elasticsearch 环境](https://www.exception.site/docker/docker-install-elasticserach)
+- [Docker 快速安装&搭建 Ngnix 环境，并配置反向代理](https://www.exception.site/docker/docker-install-nginx)
 
 ## 二、Docker 之镜像篇
 
